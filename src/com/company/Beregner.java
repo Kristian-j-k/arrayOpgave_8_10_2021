@@ -8,6 +8,7 @@ class Beregner {
             sum = sum+a[i];
         }
         return sum;
+
     }
 
     public static void main(String[] args) {
